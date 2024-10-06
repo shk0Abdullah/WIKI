@@ -1,6 +1,6 @@
 # Wiki Project
 
-Demo Video: https://shorturl.at/QXR6q
+Demo Video: [Click Here](https://www.linkedin.com/posts/abdullah-amjad-1-_django-cs50w-html-activity-7233132438577643520-4ToR?utm_source=share&utm_medium=member_desktop)
 
 This is **Project 1** of CS50's Web Programming with Python and JavaScript. The project is a simple wiki built using Django that converts markdown files into HTML.
 
